@@ -1,3 +1,4 @@
+[front-end-dev-test.pdf](https://github.com/vishvajitravalji/ratesdotca-assessment/files/8238769/front-end-dev-test.pdf)
 # ratesdotca-assessment
 TASK
 Please create the template design attached using Plain HTML, CSS and JS.
